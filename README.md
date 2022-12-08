@@ -11,3 +11,9 @@ Main features I learned and build while developing this project:
 - creating a first person camera
 - creating customizable weapons settings in Unity inspector tab 
 - instantiating objects and particles in the scene etc.
+
+![u1](https://user-images.githubusercontent.com/115250887/206475955-04a8fa52-7ab2-4d3d-b222-56a6fe2d9603.PNG)
+
+![u2](https://user-images.githubusercontent.com/115250887/206475960-b8a93ca7-0a0a-4e51-8576-b8868c4f519b.png)
+
+![u3](https://user-images.githubusercontent.com/115250887/206475972-9cff29e0-14f3-4d77-b73a-c5f3c2789a04.png)
